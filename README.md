@@ -1,3 +1,5 @@
+Those from Huawei who think I'm exprting confidential informations from my computer, don't worry, these words are just a vocabulary.
+
 der Flusch, -(e)s, Flüsche	s	blestem
 die Mumie, -, -n	s	mumie
 entlang	adv	dealungul
