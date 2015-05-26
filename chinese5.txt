@@ -1,0 +1,50 @@
+201	得	dé/de/děi	a obține; [particula]; a trebui
+202	可	kě	a putea, a fi capabil
+203	以	yǐ	cu/ localizator ce indică limita cantitatilor
+204	共	gòng	împreuna
+205	汽	qì	abur
+206	火	huǒ	foc
+207	站	zhàn	loc, a sta în picioare
+208	知	zhī	a ști
+209	道	dào	drum/ cale
+210	话	huà	cuvinte; discurs
+211	出	chū	a ieși
+212	听	tīng	a asculta
+213	懂	dǒng	a înțelege
+214	要	yào	a vrea, a dori/ important/ dacă
+215	先	xiān	primul
+216	第	dì	numeral ordinal
+217	兴	xīng/xìng	prosper/ interes
+218	告	gào	a spune
+219	诉	sù	a spune
+220	想	xiǎng	a gândi, a crede
+221	开	kāi	deschis, a deschide
+222	错	cuò	greșeală
+223	正	zhèng	corect, drept
+224	找	zhǎo	a căuta
+225	最	zuì	cel mai
+226	歌	gē	cântec
+227	但	dàn	dar, totusi
+228	唱	chàng	a cânta
+229	高	gāo	înalt
+230	教	jiāo/jiào	a învăța, a preda
+231	给	gěi/jǐ	a da/ a aproviziona
+232	题	tí	topic, subiect
+233	亮	liàng	stralucitor
+234	表	bǎo	a arăta, a exprima
+235	打	dǎ	a lovi
+236	慢	màn	încet
+237	飞	fēi	a zbura
+238	机	jī	masinărie/ oportunitate
+239	快	kuài	rapid
+240	票	piào	bilet
+241	旅	lǚ	a călători
+242	行	xíng/háng	a călători, a pleca/ rând/ comerț
+243	玩	wán	a se juca
+244	水	shuǐ	apă
+245	船	chuán	corabie, vapor
+246	所	suǒ	locuință, așezare/ clasificator/ urmat de un verb formează o structură verbală
+247	红	hóng	roșu
+248	向	xiàng	înspre
+249	米	mǐ	orez/ metru
+250	场	chǎng	câmp/ [clasificator]
