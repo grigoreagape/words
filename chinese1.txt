@@ -1,0 +1,50 @@
+1	一	yī/yí/yì	unu
+2	二	èr	doi
+3	三	sān	trei
+4	四	sì	patru
+5	五	wǔ	cinci
+6	六	liù	șase
+7	七	qī	șapte
+8	八	bā	opt
+9	九	jiǔ	noua
+10	十	shí	zece
+11	叫	jiào	a se numi
+12	什	shén	care
+13	么	me	[particulă]
+14	名	míng	nume
+15	字	zì	caracter
+16	你	nǐ	tu
+17	好	hǎo	bine
+18	我	wǒ	eu
+19	请	qǐng	a ruga, a invita
+20	问	wèn	a întreba
+21	您	nín	dumneavoastră
+22	贵	guì	scump
+23	姓	xìng	nume de familie
+24	是	shì	a fi
+25	哪	nǎ	ce
+26	国	guó	țară
+27	人	rén	persoană, om
+28	中	zhōng	mijloc
+29	吗	ma	[particulă]
+30	他	tā	el
+31	他	tā	ea
+32	谁	shuí/shéi	cine
+33	的	de	[particulă]
+34	朋	péng	prieten
+35	友	yǒu	prieten
+36	学	xué	a învăța
+37	不	bù/bú	nu
+38	会	huì	a fi capabil, a se întânli, a convoca
+39	写	xiě	a scriere
+40	多	duō	mult
+41	少	shǎo	puțin
+42	个	gè	[clasificator]
+43	汉	hàn	grupul etnic majoritar în China, om
+44	认	rèn	a recunoaște
+45	识	shí	a ști
+46	说	shuō	a vorbi
+47	语	yǔ	limbă de comunicare
+48	门	men	[sufix pentru plural]
+49	有	yǒu	a avea
+50	没	méi	a nu amvea
