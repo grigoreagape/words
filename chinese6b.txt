@@ -1,0 +1,100 @@
+251	果	guǒ	fruct/ hotrât,ferm/ dupa așteptări
+252	回	huí	a se reîntoarece, a reveni
+253	颜	yán	culoare
+254	色	sè	culoare
+255	黑	hēi	negru
+256	白	bái	alb
+257	别	bié	alt, altul; să nu
+258	因	yīn	motiv, argument
+259	为	wèi/wéi	din partea/ a face
+260	真	zhēn	adevărat
+261	新	xīn	nou
+262	穿	chuān	a purta
+263	服	fú	a asculta, a se supune; haine
+264	喝	hē	a bea
+265	饮	yǐn	a bea
+266	着	zhe/zháo/zhuó	particulă verbala/ a astașa, a fi atașat
+267	气	qì	aer, gaz
+268	报	bào	raport
+269	晴	qíng	însorit, frumos
+270	阴	yīn	înnorat, întunecat
+271	漂	piāo/piào/piǎo	în vioia sortii/ a albi, înălbit 
+272	务	wù	a trebui/ obligație
+273	望	wàng	a uimi/ a vizita
+274	球	qiú	minge
+275	门	mén	ușă/ disciplină, multitudine de cunoștințe și calificări
+276	希	xī	speranță
+277	次	cì	poziție într-o serie
+278	始	shǐ	început
+279	班	bān	clasă/ calătorie cu autobuzul, barca, etc./ modificare
+280	羊	yáng	oaie
+281	奶	nǎi	lapte
+282	眼	yǎn	ochi
+283	准	zhǔn	1. a permite, 2. a urma, 3. corect, conform 4. cu siguranță, sigur
+284	夫	fū	soț
+285	备	bèi	a fi echipat cu
+286	答	dā/dá	a răspunde
+287	等	děng	a aștepta/ egal
+288	舞	wǔ	1. dans, 2. a flutura, a agita
+289	笑	xiào	a râde la, zâmbet
+290	房	fáng	cameră
+291	迎	yíng	a merge la o întânlire
+292	考	kǎo	test
+293	课	kè	clasă, lectură
+294	纸	zhǐ	hârtie
+295	让	ràng	a permite, a lăsa
+296	斤	jīn	unitate de măsura pentru greutăți (jumâtate de kilogram)
+297	鱼	yú	pește
+298	牛	niú	vacă
+299	肉	ròu	carne
+300	洗	xǐ	a spăla
+301	送	sòng	a da un cadou
+302	鸡	jī	găină, pui
+303	蛋	dàn	ou
+304	非	fēi	nu
+305	号	hào	număr
+306	介	jiè	a fi situat între
+307	室	shì	cameră
+308	累	léi/lěi/lèi	a acumula/ împovărător;obosit
+309	雪	xuě	zăpadă
+310	完	wán	a tremina, final
+311	乐	lè/yuè	bucurie/ muzică
+312	事	shì	chestiune
+313	休	xiū	odihnă
+314	息	xī	respirație/a opri/vești, știri
+315	跳	tiào	1. a sări, 2. a se misca în sus și în jos, 3. a omite
+316	员	yuán	persoană dintr-un domeniu de activitate, funcționar, vânzător
+317	足	zú	picior/amplu, complet
+318	自	zì	însuși
+319	杯	bēi	pahar, cupă
+320	馆	guǎn	adăpost
+321	关	guān	a închide/ trecatoare/ a se îngrijora
+322	菜	cài	legume
+323	椅	yǐ	scaun
+324	茶	chá	ceai
+325	租	zū	1. a închiria, 2. a lăsa pe dinafară
+326	同	tóng	comun/ înpreună
+327	桌	zhuō	masa
+328	些	xiē	cineva, câțiva
+329	视	shì	a se uita la
+330	系	xì	sistem, a se referi la, a lega
+331	思	sī	a gândi
+332	客	kè	oaspete
+333	意	yì	idee
+334	药	yào	medicament
+335	情	qíng	emoție
+336	张	zhāng	cuvânt de măsura/ deschis
+337	病	bìng	bonlav
+338	苹	píng	măr
+339	喂	wèi	hei, bună/ a hrăni animalele, copii sau oamenii bonlavi
+340	瓜	guā	pepene, tartacă 
+341	丈	zhàng	unitate de măsura/ soț
+342	踢	tī	a lovi
+343	司	sī	a fi responsabil cu
+344	咖	kā/gā	folosit pentru transliterația cuvintelor străine
+345	啡	fēi	folosit pentru transliterația cuvintelor străine
+346	试	shì	a încreca
+347	绍	shào	a continua
+348	篮	lán	coș
+349	妻	qī	soție
+350	带	dài	a lua, a aduce/ bandă; fâșie
