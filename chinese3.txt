@@ -1,0 +1,50 @@
+101	时	shí	timp
+102	候	hòu	timp; a astepta
+103	上	shàng	deasupra, pe; a merge în sus
+104	下	xià	dedesubt, sub
+105	午	wǔ	amiază
+106	晚	wǎn	seară
+107	起	qǐ	a trezi, a ridica, a începe
+108	床	chuáng	pat
+109	跑	pǎo	a alerga
+110	步	bù	pas
+111	今	jīn	prezent
+112	天	tiān	zi, cer
+113	明	míng	luminos, clar
+114	月	yuè	lună
+115	日	rì	zi
+116	年	nián	an
+117	看	kàn	a vedea, a se uita
+118	电	diàn	electricitate
+119	影	yǐng	umbră
+120	昨	zuó	ieri
+121	去	qù	a merge, a se duce
+122	星	xīng	stea
+123	期	qī	perioada de timp
+124	每	měi	fiecare
+125	进	jìn	a intra
+126	买	mǎi	a cumpăra
+127	东	dōng	est
+128	西	xī	vest
+129	商	shāng	comerț
+130	店	diàn	magazin
+131	衣	yī	haine
+132	件	jiàn	[clasificator]; document
+133	钱	qián	bani
+134	百	bǎi	o sută
+135	块	kuài	[clasificator]
+136	便	biàn/pián	convenabil; ieftin
+137	宜	yí	potrivit, adecvat
+138	脑	nǎo	creier
+139	卖	mài	a vinde
+140	千	qiān	o mie
+141	元	yuán	primul;  monedă
+142	太	tài	prea; extrem
+143	就	jiù	imediat; a începe, a întreprinde
+144	吧	ba	[particulă]
+145	零	líng	zero
+146	读	dú	a citi
+147	习	xí	a exersa, a practica
+148	书	shū	carte
+149	本	běn	rădăcina, bază; [clasificator]
+150	它	tā	el (pentru anumale si lucruri)
