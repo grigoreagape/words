@@ -1,0 +1,50 @@
+151	帮	bāng	ajutor
+152	助	zhù	asistență
+153	前	qián	în fața, înainte
+154	后	hòu	în spate
+155	面	miàn	față
+156	旁	páng	lângă
+157	边	biān	parte
+158	对	duì	opus; corect
+159	院	yuàn	curte
+160	校	xiào	școală
+161	公	gōng	public
+162	离	lí	a pleca
+163	远	yuǎn	departe
+164	走	zǒu	a merge
+165	过	guò	a trece
+166	再	zài	iar, iarăși
+167	见	jiàn	a vedea
+168	近	jìn	aproape
+169	外	wài	afară
+170	路	lù	drum
+171	能	néng	posibilitate/ a fi capabil
+172	左	zuǒ	stânga
+173	右	yòu	dreapta
+174	手	shǒu	mână
+175	住	zhù	a trăi
+176	到	dào	a ajung
+177	从	cóng	de la, dinspre
+178	坐	zuò	a sta jos
+179	车	chē	vehicul
+180	北	běi	nord
+181	京	jīng	capitală
+182	来	lái	a veni
+183	已	yǐ	deja
+184	经	jīng	clasic; a trece prin
+185	长	cháng/zhǎng	lung; a crește
+186	间	jiān	spațiu, interval
+187	喜	xǐ	bucuros, vesel
+188	欢	huān	bucuros, vesel
+189	冷	lěng	rece
+190	热	rè	fierbinte
+191	常	cháng	comun/ des/ constant
+192	雨	yǔ	ploaie
+193	游	yóu	a înota; tur
+194	泳	yǒng	a înota
+195	动	dòng	mișcare
+196	爱	ài	iubire
+197	睡	shuì	a dormi, somn
+198	觉	jiào/jué	somn; a dormi
+199	呢	ne	[particulă]
+200	运	yùn	transport
