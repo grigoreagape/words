@@ -1,0 +1,50 @@
+51	和	hé	și/armonie
+52	哥	gē	frate mai mare
+53	姐	jiě	soră mai mare
+54	弟	dì	frate mai mic
+55	妹	mèi	soră mai mică
+56	还	hái/huán	încă/a returna
+57	两	liǎng	doi
+58	家	jiā	familie
+59	几	jǐ/jī	cât de mult?/masă mică
+60	爸	bà	tată
+61	妈	mā	mamă
+62	这	zhè/zhèi	acesta
+63	也	yě	de asemenea
+64	老	lǎo	bătrân/prefix
+65	师	shī	învățător, profesor
+66	很	hěn	foarte
+67	怎	zěn	cum?
+68	样	yàng	aparență
+69	谢	xiè	a mulțumi
+70	身	shēn	corp
+71	体	tǐ	corp
+72	都	dōu/dū	toți; oraș
+73	那	nà	acela
+74	里	lǐ	înăuntru
+75	儿	ér	copil
+76	子	zǐ	copil/sufix pentru substantive
+77	女	nǚ	femeie
+78	男	nán	bărbat
+79	孩	hái	copil
+80	狗	gǒu	câine
+81	猫	māo	pisică, mâță
+82	大	dà	mare
+83	小	xiǎo	mic
+84	岁	suì	vârsta în ani
+85	比	bǐ	a compara
+86	做	zuò	a face
+87	工	gōng	muncă
+88	作	zuò	a face/ lucrări
+89	医	yī	leac, tratament
+90	生	shēng	a naște, a trăi
+91	忙	máng	ocupat
+92	现	xiàn	a apare
+93	在	zài	la, acum, aici
+94	点	diǎn	punct/puțin
+95	钟	zhōng	ceas, oră
+96	分	fēn	a divide, minut
+97	了	le	[patriculă]
+98	吃	chī	a mânca
+99	早	zǎo	devreme
+100	饭	fàn	mâncare, masă
