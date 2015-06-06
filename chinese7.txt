@@ -1,0 +1,550 @@
+351	草	cǎo	indiferent, neglijent, aspru/iarbă
+352	敢	gǎn	1. curajos, 2. îndrăzneț, 3. a fi sigur, 4. a se aventura
+353	特	tè	special
+354	使	shǐ	a spune cuiva sa faca ceva/ a face, a cauza
+355	故	gù	prieten/ accident/ intenționat
+356	音	yīn	sunet
+357	声	shēng	sunet
+358	放	fàng	a elibera, a pune
+359	突	tū	imediat
+360	爬	pá	a urca, a se cațăra
+361	种	zhǒng/zhòng	cuvât de măsură pentru tipuri/ a planta
+362	秋	qiū	toamnă
+363	响	xiǎng	a face un sunet, a scoate un sunet
+364	居	jū	a locui
+365			
+366	层	céng	etaj; strat
+367	愿	yuàn	1. dorință, 2. a fi dispus să, 3. a face un jurământ în fața zeilor
+368	检	jiǎn	a verifica
+369	旧	jiù	trecut, învechit
+370	级	jí	nivel
+371	词	cí	cuvânt
+372	典	diǎn	canon, standard/ ceremonie
+373	讲	jiǎng	a vorbi/ a explica
+374	方	fāng	direcție
+375	信	xìn	scrisoare; încredere
+376	邻	lín	vecin, în vecinătate
+377	哭	kū	a plânge
+378	邮	yóu	a trimite o scrisoare
+379	较	jiào	a compara
+380	轻	qīng	mic în număr, în grad, ușor
+381	楼	lóu	1. clădire cu etaj, 2. etaj, podea
+382	鲜	xiān/xiǎn	1. proaspăt, 2. aprins colorat, 3. delicios (despre mâncăruri sărate sau supe), 4. delicatețe, fructe de mare, 5. puțin, rar
+383	刚	gāng	tocmai
+384	满	mǎn	1. a umple, 2. plin, 3. a expira, 4. complet, 5. sadisfăcut, 6. încrezător, mândru
+385	重	zhòng/chóng	greu; a repeta
+386	衬	chèn	a începe, a lansa
+387	己	jǐ	însuși
+388	闻	wén	a auzi
+389	差	chā/chà/chāi	diferență/ cu excepția/ a expedia
+390	拿	ná	a lua
+391	胖	pàng	gras, robust, rotofei
+392	箱	xiāng	1. cutie, cufăr, 2. ceva în formă de cutie
+393	择	zé	a alege
+394	香	xiāng	parfumat
+395	婚	hūn	1. a se căsători, 2. căsătorie, nunta
+396	担	dān/dàn	1. a întreprinde, 2. povară
+397	如	rú	asemănător cu
+398	锻	duàn	a forja
+399	护	hù	a avea jrijă/ a prefera ceva
+400	网	wǎng	plasă, năvod
+401	奇	qí	ciudat, straniu
+402	净	jìng	curat
+403	头	tóu	cap
+404	决	jué	a decide
+405	冰	bīng	gheață
+406	冬	dōng	iarnă
+407	算	suàn	a calcula
+408	酒	jiǔ	alcool
+409	刻	kè	a ciopli, a sculpta/ sfert, moment
+410	育	yù	a da naștere
+411	刷	shuā	1. a curăța cu peria, 2. a picta
+412	刮	guā	a răzui, a se bărbieri/ bătaie de vânt
+413	蓝	lán	albastru
+414	饿	è	1. înfometat, 2. a înfometa
+415	更	gēng/gèng	schimbare/ și mai mult, încă mai mult
+416	饱	bǎo	a mânca până a se sătura
+417	云	yún	nor
+418	于	yú	în, pe, la
+419	角	jiǎo/jué	colț/rol
+420	历	lì	a trece prin/ calendar
+421	照	zhào	a străluci/ reflexie, oglindă
+422	相	xiàng	aspect, înfățișare, aparență
+423	实	shí	solid, real
+424	定	dìng	1. a stabili, a decide, 2. decizie, 3. calm, stabil, 4. a subscrie, a comandă
+425	舒	shū	a întinde, a netezi
+426	搬	bān	1. a elimina, a șterge, 2. a-și schima locuința, 3. a copia mecanic
+427	求	qiú	a cerși, a căuta
+428	久	jiǔ	de mult timp
+429	难	nán/nàn	dificil/ catastrofă
+430	南	nán	sud
+431	单	dān	singur/ foaie de hârtie
+432	举	jǔ	a ridica, a înălța
+433	虽	suī	chiar dacă, deși
+434	然	rán	astfel, în acest mod/ cu toate că
+435	主	zhǔ	gazdă, proprietar/ principal
+436	季	jì	sezon
+437	节	jié	secțiune/ sezonier/ diviziune/ a economisi
+438	半	bàn	jumătate
+439	黄	huáng	galben
+440	山	shān	munte
+441	业	yè	linie de producție
+442	世	shì	toată viața/ lume
+443	且	qiě	pentru momentul de față/ de asemenea
+444	万	wàn	zece mii
+445	化	huà	a schimba, schimbare
+446	查	chá	a se uita în
+447	议	yì	a discuta
+448	跟	gēn	călcâi; a urma; împreună, și
+449	总	zǒng	a pune împreună/ totdeuna/ după aceea, în final, la sfârșit
+450	包	bāo	a înfașura
+451	怪	guài	straniu
+452	急	jí	impacientat, anxios
+453	怕	pà	a avea frică
+454	图	tú	desen, diagrama
+455	趣	qù	a încânta, a delecta, a bucura
+456	园	yuán	grădină, parc
+457	糖	táng	zahăr
+458	除	chú	pe lânga/ exceptând
+459	提	tí	a căra în mână/ a menționa
+460	附	fù	a atașa
+461	烧	shāo	a arde
+462	阳	yáng	binele; soare
+463	接	jiē	a primi, a conecta, a continua
+464	短	duǎn	scurt
+465	越	yuè	a întrece, a fi în excess
+466	被	bèi	indică diateza pasivă/ covertură
+467	市	shì	oraș
+468	段	duàn	1. segment, 2. paragraf
+469	超	chāo	e excede
+470	极	jí	extrem, foarte
+471	炼	liàn	1. a cali, 2. a căuta fraza prtivită
+472	板	bǎn	1. tablă, 2. șef, 3. rigid
+473	必	bì	cu siguranță, trebuie
+474	心	xīn	inimă/ centru
+475	静	jìng	liniștit, calm, nemișcat, tăcut
+476	花	huā	floare/ a cheltui
+477	注	zhù	a concntra/ a adnota
+478	法	fǎ	lege, metodă
+479	直	zhí	drept
+480	祝	zhù	a ura de bine
+481	史	shǐ	istorie
+482	鼻	bí	nas
+483	只	zhǐ	doar
+484	河	hé	lac, râu
+485	礼	lǐ	politețe/ cadou
+486	物	wù	lucru
+487	示	shì	a arăta
+488	目	mù	ochi/ item, colecție
+489	句	jù	propoziție
+490	口	kǒu	gură/ cuvânt de măsură
+491	变	biàn	a schimba
+492	叔	shū	1. fratele mai mic al tatălui, 2. fratele mai mic al soțului, 3. unchi
+493	发	fā	a evolua, a dezvolta
+494	需	xū	a trebui, a necesita
+495	双	shuāng	pereche
+496	又	yòu	iar, din nou
+497	参	cān	a lua parte la, a se alătura
+498	惯	guàn	a se obișnui cu
+499	记	jì	a înregistra
+500	宾	bīn	oaspete
+501	容	róng	a contine/ priviri/ a permite , a lasa
+502	易	yì	schimbare/usor
+503	害	hài	a dăuna, a lovi
+504	根	gēn	1. radăcină, bază, 2. complet, detaliat, [erfect
+505	界	jiè	graniță, limită
+506	树	shù	copac
+507	画	huà	a desena
+508	块	huài	rău
+509	用	yòng	a folosi
+510	当	dāng/dàng	a se portivi, față în față/ adecvat
+511	甜	tián	dulce
+512	地	dì	pământ
+513	铁	tiě	fier
+514	解	jiě	resolvare/ a explica, a interpreta
+515	数	shǔ/shù	a număra/ număr
+516	空	kōng/kòng	gol; timp liber
+517	牙	yá	dinte
+518	片	piàn	felie
+519	位	wèi	cuvânt de măsură pentru oameni/ a fi situat la
+520	低	dī	jos
+521	普	pǔ	general
+522	通	tōng	prin, print intermediul
+523	感	gǎn	a simție
+524	健	jiàn	sănatate
+525	疼	téng	1. a durea, 2. a iubi mult
+526	鞋	xié	papuc
+527	城	chéng	oraș
+528	借	jiè	a se folosi de/ a împrumuta
+529	忘	wàng	a uita
+530	清	qīng	clar
+531	楚	chǔ	curat, ordonat
+532	环	huán	împrejurime; conexiune
+533	境	jìng	teritoriu
+534	文	wén	scris, limba
+535	瘦	shòu	1. subțire, 2. slab, 3. strâns, îngust, 4. infertil
+536	像	xiàng	a se asemăna
+537	力	lì	putere
+538	办	bàn	a face
+539	理	lǐ	motiv/ a ordona
+540	马	mǎ	cal
+541	周	zhōu	cerc/ săptămână
+542	末	mò	sfârșit
+543	条	tiáo	cuvânt de măsură; bandă lungă și îngustă
+544	街	jiē	stradă
+545	应	yīng/yìng	a trebui/ a răspunde
+546	该	gāi	a trbui să
+547	绩	jì	realizare, îndeplinire
+548	骑	qí	1. a călări, 2. călăreț
+549	平	píng	nivel
+550	干	gān/gàn	uscat/ a face
+551	脚	jiǎo	1. picior, 2. bază
+552	换	huàn	a schimba
+553	据	jù	1. a ocupa, 2. a se baza pe, 3. în conformitate cu, 4. dovadă
+554	演	yǎn	1. a evolua, a se dezvolta, 2. a deduce, a elabora, 3. a practica, 4. a performa, a juca
+555	加	jiā	a aduna
+556	努	nǔ	1. a extenua, 2. a se unfla 
+557	束	shù	1. a lega, legătură, 2. măsură pentru mănunchiuri
+558	赛	sài	1. cursa, competiție 2. a concura, 3. a fi comparabil cu
+559	须	xū	a trebui, a necesita
+560	顾	gù	a lua parte
+561	练	liàn	a practica
+562	终	zhōng	a sfârși, sfârsit
+563	结	jié	a lega, nod
+564	戏	xì	piesă, dramă
+565	铅	qiān	1. plumb, 2. mină la creion
+566	绿	lǜ	vede
+567	灯	dēng	lumina
+568	成	chéng	a deveni
+569	或	huò	sau, poate
+570	者	zhě	-ist, -istă
+571	其	qí	pronume relativ
+572	而	ér	și
+573	迟	chí	a întârzia
+574	银	yín	argint
+575	冒	mào	a emite/ brav, cu avânt
+576	才	cái	doar atunci când, doat/ capabil, talentat
+577	扫	sǎo/sào	1. a curăța,a mătura, 2. mătură
+578	耳	ěr	ureche
+579	调	diào/tiáo	ton/a adjusta
+580	把	bǎ	a manipula/ în legătură cu
+581	风	fēng	vânt/ obicei
+582	渴	kě	1. însetat, 2. a dori ceva foarte tare
+583	春	chūn	primăvară
+584	简	jiǎn	simplu
+585	复	fù	duplicat, a recupera, a replica
+586	夏	xià	vară
+587	遇	yù	1. a întânli, 2. a trata, a primi, 3. oportunitate
+588	阿	ā	prefix pentru nume/ traducerea lui a din cuvintele străine
+589	康	kāng	sănătate, afluent
+590	碗	wǎn	bol, castron
+591	澡	zǎo	baie
+592	乎	hū	prepoziție, folosit după un adjectiv
+593	安	ān	a se stabili, in siguranță/ liniste, pace
+594	汁	zhī	fliud, suc
+595	般	bān	soi, la fel ca
+596	熊	xióng	urs
+597	厨	chú	bucătărie
+598	梯	tī	scară
+599	伞	sǎn	umbrelă/parașută
+600	爷	yé	tată, formă politicoasă de a te adresa cuiva mai în vârstă
+601	辆	liàng 	cuvânt de măsura pentru mașini
+602	盘	pán	plat/ a examina, a verifica
+603	笔	bǐ	stilou
+604	啊	ā,á,ǎ,à	a, ah, oh
+605	聪	cōng	auz, auz ascuțit, deștept
+606	啤	pī	bere
+607	葡萄	pútáo/pútao	strugure
+608	筷	kuài	bețisoare
+609	镜	jìng	oglindă, lentilă
+610	衫	shān	cămașă
+611	姨	yí	soara mamei, sora soției
+612	矮	ǎi	scund
+613	裙	qún	fustă
+614	帽	mào	pălărie
+615	裤	kù	pantalon
+616	腿	tuǐ	picior
+617	朵	duǒ	mugur, boboc/ cuvânt de măsura pentru flori, nori ...
+618	李	lǐ	prună
+619	蕉	jiāo	banană, plantație
+620	鸟	niǎo	pasare
+621	糕	gāo	prăjitură, tort
+622	脸	liǎn	1. față, 2. partea din față, 3. expresie facială
+623	美	měi	frumos
+624	父	fù	tată
+625	毛	máo	păr
+626	台	tái	platforma; cuvânt de măsura pentru mașinării
+627	活	huó	a trăi
+628	言	yán	cuvânt
+629	利	lì	ascuțit; beneficii
+630	改	gǎi	a schimba
+631	民	mín	oameni
+632	首	shǒu	principal, numărul unu, lider; cuvânt de masura pentru poeme, cântece
+633	金	jīn	aur, metal
+634	代	dài	a reprezenta, perioadă istorică
+635	价	jià	preț
+636	适	shì	portivit, adecvat
+637	神	shén	spirit, zeu
+638	预	yù	dinainte, anticipat
+639	断	duàn	a rupe, a sparge
+640	料	liào	material; a astima, a anticipa
+641	深	shēn	adânc; întunecat
+642	无	wú	fară deosebire; nimic
+643	积	jī	a acumula
+644	并	bìng	1. a uni, a combina, 2. unul lânga altul, alăturat, 3. și (conjucție pentru fraze), 4. de fapt, edectiv
+645	展	zhǎn	a deschide; a extinde
+646	忽	hū	imediat, rapid
+647	济	jì	a fi de folos
+648	由	yóu	cauză, motiv; a face ceva pentru cineva
+649	优	yōu	excelent
+650	圆	yuán	rotund
+651	诚	chéng	urai sincere, sinceritate
+652	量	liáng/liàng	măsura; cantitate
+653	叶	yè	frunză; parte a unei perioade istorice
+654	暖	nuǎn	cald
+655	度	dù	grad
+656	计	jì	a număra, a socoti
+657	划	huà	a delimita
+658	流	liú	a curge, curgere
+659	验	yàn	a experimenta, experiență
+660	交	jiāo	a schimba
+661	母	mǔ	mamă
+662	亲	qīn	părinte, familie, neam
+663	味	wèi	gust, savoare
+664	死	sǐ	a muri; extrem
+665	基	jī	bază
+666	坚	jiān	tare, solid
+667	持	chí	a ține, a apuca
+668	顺	shùn	a urma
+669	养	yǎng	a asigura, a se îngriji dew
+670	入	rù	a intra
+671	及	jí	a ajunge din urmă; și
+672	与	yǔ	cu, 
+673	丰	fēng	abundent
+674	艺	yì	aptitudine; artă
+675	支	zhī	a propi, a împiedica sa cadă
+676	止	zhǐ	a opri
+677	内	nèi	inăuntru
+678	术	shù	abilitate
+679	永	yǒng	etern
+680	式	shì	stil
+681	压	yā	a apăsa
+682	列	liè	a aranja, a stabili; coloană
+683	毕	bì	a termina
+684	至	zhì	la, până
+685	此	cǐ	acesta
+686	吸	xī	a inhala
+687	则	zé	normă, regulă, reglementare; indică o relație de tipul cauza efect, condiție, contrast
+688	任	rèn	a desemna; a pune cineva responsabil
+689	伤	shāng	a răni
+690	份	fèn	a împărți
+691	松	sōng	1. pin, 2. a slăbi, a da drumul
+692	全	quán	complet
+693	众	zhòng	mulțime, mulți oameni; numeros
+694	杂	zá	amestecat
+695	危	wéi	pericol
+696	负	fù	a pierde, povară
+697	争	zhēng	a lupta pentru, a se certa
+698	齐	qí	neted, uniform, curat
+699	污	wū	murdar
+700	论	lùn	a analiza si a explica; în conformitate cu
+701	农	nóng	agricultură, țăran
+702	访	fǎng	a vizita, a apela la, a solicita
+703	尽	jǐn/jìn	a continua sa faca ceva/ entuziast
+704	收	shōu	a primi
+705	观	guān	a se uita la
+706	约	yuē	a face  o programare
+707	纪	jì	a scrie
+708	弄	nòng	a se juca cu, a se prosti cu
+709	扰	rǎo	a perturba, a chinui
+710	批	pī	en gross; a critica
+711	址	zhǐ	adresă
+712	折	zhé	a rupe, a sparge
+713	克	kè	gram; a birui, a câștiga
+714	却	què	recul; dar, totuși
+715	严	yán	strict, sever
+716	连	lián	legătură
+717	丽	lì	frumos
+718	何	hé	care, unde
+719	免	miǎn	a scuti, a absolvi
+720	况	kuàng	situație
+721	序	xù	ordine
+722	辛	xīn	caustic, înțepător; greu, laborios
+723	弃	qì	a raunca, a abandona
+724	怀	huái	a păstra în suflet, a nutri
+725	究	jiū	a studia atent
+726	穷	qióng	sărac
+727	证	zhèng	dovadă
+728	评	píng	comentariu
+729	社	shè	corp organizatoric
+730	译 	yì	a traduce
+731	即	jí	anume, adica; dintr-o dată
+732	抱	bào	a îmbrățișa
+733	拉	lā	a trace, a ajuta
+734	取	qǔ	a lua, a primi, a prinde
+735	苦	kǔ	amar
+736	具	jù	a poseda, a avea
+737	例	lì	exemplu
+738	货	huò	bunuri
+739	质	zhì	calitate; a pune sub acuzare
+740	命	mìng	viață, soartă; comandă
+741	受	shòu	a primi, a accepta
+742	底	dǐ	fund
+743	闹	nào	zgomotos
+744	组	zǔ	grup
+745	细	xì	foarte mic și subtire
+746	挂	guà	a atârna
+747	指	zhǐ	a arăta înspre, a indica, a se referi
+748	标	biāo	marcă, etichetă
+749	耐	nài	a îndura
+750	省	shěng	a economisi, a salva; provincie
+751	品	pǐn	produs; a gusta
+752	修	xiū	a construi, a repara
+753	保	bǎo	a menține, a păstra
+754	律	lǜ	lege
+755	食	shí	masă, mâncare
+756	奖	jiǎng	recompensă
+757	洲	zhōu	continent
+758	染	rǎn	a vopsi; a polua
+759	误	wù	a lipsi; eroare
+760	险	xiǎn	periculos
+761	获	huò	a culege
+762	桥	qiáo	pod
+763	速	sù	viteză
+764	破	pò	a rupe; a delapida
+765	原	yuán	original
+766	逐	zhú	a alege; unul câte unul
+767	顿	dùn	pauză
+768	虑	lǜ	a anula; a fi nerăbdător
+769	缺	quē	a fi în lipsă de
+770	造	zào	a face, a crea
+771	留	liú	a rămâne; a păstra; a ruga pe cineva să stea
+772	效	xiào	efect
+773	资	zī	bani; provincie; resursă
+774	继	jì	a contunua, a succeda; atunci, după aceea
+775	续	xù	a continua, a prelungi
+776	推	tuī	a împinge
+777	够	gòu	destul
+778	职	zhí	post, datorie
+779	著	zhù	subliniat, marcat; carte, lucrare
+780	停	tíng	a opri
+781	联	lián	a se alătura, a se alia
+782	整	zhěng	ordonat, în bună ordine; întreg complet
+783	制	zhì	manufactură
+784	绝	jué	a tăia(la un capăt); obosit
+785	假	"jiǎ/jià		"	fals/ vacanță
+786	凉	liáng	rece
+787	际	jì	graniță; între
+788	梦	mèng	vis
+789	温	wēn	cald
+790	疑	yí	1. dubiu, suspiciune, 2. nesigur
+791	合	hé	a se alătura, a se uni
+792	规	guī	1. regulă, regulament, 2. plan
+793	许	xǔ	a permite
+794	志	zhì	aspirație, dorință
+795	传	chuán/zhuàn	a  înmâna; biografie
+796	态	tài	aparentă
+797	厌	yàn	a detesta
+798	否	fǒu	a nega, a refuza
+799	专	zhuān	pentru un scop special
+800	之	zhī	[particulă]
+801	切	qiē/qiè	a tăia; în conformitate cu
+802	导	dǎo	a gida
+803	恼	nǎo	enervat; furios
+804	引	yǐn	a trage, a conduce; a face, a cauza
+805	研	yán	a studia
+806	处	chǔ/chù	a se ințelege cu cineva; loc
+807	将	jiāng	a intenționa
+808	败	bài	defect, a se strica
+809	谈	tán	a vorbi, a discuta
+810	费	fèi	a cheltui
+811	替	tì	pentru, din partea
+812	各	gè	fiecare
+813	掉	diào	a cade, a slăbi (din legătură); a întoarce
+814	消	xiāo	a disparea
+815	油	yóu	ulei
+816	确	què	precis, exact
+817	往	wǎng	înspre
+818	管	guǎng	1. tub, conductă, 2. a administra, 3. disciplina, 4. a fi îngrijorat, 5. a asigura, a furniza, a aproviziona, 6. nu contează
+819	印	yìn	a tipari, a printa
+820	软	ruǎn	1. delicat, moale, 2. blând, delicat, 3. slab, firav
+821	精	jīng	meticulos
+822	皮	pí	piele
+823	幸	xìng	noroc, norocos
+824	窄	zhǎi	1. îngust, 2. sarac (ca bani)
+825	江	jiāng	râu
+826	林	lín	pădure
+827	技	jì	aptitudine
+828	光	guāng	lumina
+829	尝	cháng	a gusta, a încerca; o dată, cândva
+830	区	qū	1. district, 2. a distinge
+831	反	fǎn	a rasturna, a inversa
+832	困	"kùn	"	somnoro; împovărat
+833	值	zhí	valoare
+834	紧	jǐn	strâmt
+835	沙	shā	nisip; răgusit
+836	士	shì	savant, cărturar
+837	恐	kǒng	frică; probabil
+838	漫	màn	1. arevărsare, 2. a fi peste tot, 3. nelimitat
+839	按	àn	a presa; în conformitate cu
+840	格	gé	format prin încrucișarea liniilor
+841	招	zhāo	a fce semn, a gesticula; a înregisra, a înrola
+842	达	dá	a ajunge
+843	嘴	zuǐ	gură
+844	肥	féi	gras; neajutat
+845	景	jǐng	priveliște, cadru, decor
+846	讨	tǎo	a o cere; a provoca; a discuta
+847	福	fú	binecuvântare
+848	科	kē	secție, departament
+849	海	hǎi	mare
+850	广	guǎng	larg
+851	互	hù	mutual
+852	币	bì	monedă
+853	仍	réng	nemișcat
+854	忆	yì	a-și reaminti
+855	失	shī	a pierde, a fi înfrânt
+856	巧	qiǎo	1. îndemânatic, 2. coincidență
+857	申	shēn	1. a raporta către o entitate superioară, 2. a declara ceva la vamă
+858	另	lìng	1. în adiție, 2. în locul acelui lucru
+859	扩	kuò	a extinde, a lărgi
+860	扬	yáng	1. a crește, 2. a fece cunoscut
+861	亚	yá	1. Asia, 2. al doilea
+862	丢	diū	a pierde
+863	血	xiě/xuè	sânge
+864	烟	yān	1. fum, 2. ceață, 3. țigară, tutun
+865	烦	fán	1. a fi contrariat, 2. a fi obosit, 3. probleme
+866	座	zuǒ	1. loc, scaun, 2. piedestal, 3. cuvânt de măsura pentru obiecte inamovibile
+867	降	jiàng	1. a cade, 2. a reduce, a coborî
+868	限	xiān	1. limitat, 2. restricționat
+869	硬	yìng	1. tare, rigid, 2. puternic, ferm, 3. a reuși să facă ceva cu dificultate
+870	握	wò	a ține, a apuca
+871	陪	péi	a acompania
+872	弹	dàn/tán	1. bilă, 2. glonț, bombă, 3. a scutura, 4. a cânta la un instrument muzical
+873	随	suí	1. a urma, 2. a se conforma cau, 3. a lăsa pe cineva sa facă ce vrea
+874	围	wéi	a împrejmui; de jur împrejur
+875	默	mò	1. tăcut, tacit, 2. a scrie din memorie
+876	激	jī	1. talaz, val, 2. a suscita, a stimula, a excita, 3. violent, feroce
+877	怜	lián	1. milă, 2. dragoste
+878	性	xíng	1. natură, 2. dispoziție, 3. proprietate, 4. sex
+879	减	jiǎn	1. a scădea, 2. a reduce
+880	麻	má	1. cânepă, 2. aspru, 4. a simți înțepături
+881	汤	tāng	1. apă fierbinte, apă clocotită, 2. supă, borș
+882	孙	sūn	nepot
+883	孤	gū	1. orfan, 2. solitar, izolat
+884	博	bó	1. bogat, abundent, 2. bine informat, 3. a câștiga, 4. a juca jocuri de noroc
+885	集	jí	1. a colecta, a aduna, 2, colecție, antologie, 3. volum, parte
+886	悔	huǐ	a regreta, a se pocăi
+887	乘	chéng	1. a călări, 2. a profita de 3. a multiplica
+888	乱	luàn	haotic
+889	秀	xiù	elegant, frumos
+890	洋	yáng	de peste mări, străin, 3. vast
+891	航	háng	1. barcă, vapor, 2. a naviga (aer, apă)
+892	厚	hòu	1. gros, 2. profund, favor
+893	熟 	shú/shóu	1. a se coace, 2. copt, 3. familiar, 4. îndemânatic, experimentat, 4. adânc, profund
+894	彩	cǎi	1. culoare, 2. varietate, sclipire
+895	撞	zhuàng	1. a se ciocni, 2. a se întânli din greșeală, 3, a accepta riscurile 
+896	增	zēng	a crește, a câștiga, a aduna
+897	惊	jīng	1. a fi înfricosat, 2. șoc, alarmă, 3. panică
+898	案	àn	1. masă îngustă sau tablă îngustă, 2. literă mica, 3. propunere
+899	宽	kuān	1. vast, 2. a extinde, 3. a se relaxa, 4. generos
+900	惜	xī	1. a păstra în suflet, , a nutri sentimente, 2. ranchiună, dușmănie, 3. a-i fi milă
