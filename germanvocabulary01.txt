@@ -1,0 +1,378 @@
+das Zeichen, -s, -	s	simbol, caracter, semn de punctuație, semnal	B
+zeichen	v	a desena, a schița	B
+sammeln	v	a colecționa	B
+wandern	v	a face drumeții, a se deplasa, a migra	B
+treiben	v	a direcționa, a înmuguri, a pluti, a merge în derivă	B
+bewundern	v	a admira	B
+die Gesellschaft	s	societate, companie, corporație	B
+das Gemälde, -s, -	s	tablou	B
+der Vergleich, -(e)s, -e	s	comparație	B
+die Industrie, -, -n	s	industrie	B
+der Wirtschaftszweig	s	ramura a industriei	B
+der Zweig, -(e)s, -e	s	ramură, mlădiță	B
+die Untersuchung	s	examinare, investigație	B
+das Verhalten, -s,	s	comportament	B
+verhalten	v	a se comporta, a reacționa	B
+die Wolle, -, -n	s	lână	B
+verpassen	v	a rata, a pierde	B
+die Umfrage	s	sondaj de opinie	B
+oben	adv	deasupra, înainte, în frunte	B
+ebenfalls	adv	de asemenea	B
+verwöhnen	v	a se răsfăța	B
+immerhin	adv	în final, la final	B
+der Bundesbürger	s	cetățean german	B
+schwierig	adj	greu, dificil, complex	B
+üben	v	a exersa, a practica, a repeta	B
+die Fähigkeit	s	abilitate	B
+notwendig	adv	necesar	B
+die Notwendigkeit	s	necesitate	B
+der Auftrag, -(e)s, Aufträge	s	contract, comision	B
+die Erlaubnis, -, -se	s	permisiune	B
+die Vorliebe, -, -n	s	plăcere, preferință	B
+die Absicht, -, -en	s	intenție	B
+die Gitarre, -, -n	s	chitară	B
+der Kontrabass, -(e)s, -e	s	contrabas	B
+die Geige, -, -n	s	vioară	B
+die Trompete, -, -n	s	trompetă	B
+die Mundharmonika	s	muzicuță	B
+die Orgel, -, -n	s	orgă	B
+das Klavier, -s, -e	s	pian	B
+das Saxofon, -(e)s, -e	s	saxofon	B
+die Posaune, -, -n	s	trombon	B
+der Lautsprecher	s	difuzor, boxă	B
+die Kassette, -, -n	s	casetă	B
+der Verstäker, -s, -	s	amplificator	B
+die Fernbedienung	s	telecomandă	B
+die Bedienung	s	ospătar, servitor, operațiune, serviciu	B
+der Zauber, -s, -	s	magie, vrăjitorie	B
+die Flöte, -, -n	s	flaut	B
+jenseits	adv	dincolo de, cealaltă parte, după ceva, după	B
+schwer	adj	greu, dificil, complex, amar	B
+die Station, -, -en	stop, stație (radio, meteo), punct de reper		B
+ehrgeizig	adj	ambițios	B
+begabt	adj	talentat	B
+der Kaiser, -s, -	s	împărat	B
+begeistern	adj	antuziast	B
+nebenbei	adv	pe lângă	B
+unterstützen	v	a susține, a suporta	B
+der Zuschauer, -s, -	s	spectator	B
+kämpfen	v	a se bate, a lupta	B
+der Kampf, -(e)s, Kämpfe	s	luptă, bătaie, competiție	B
+der Prozess, -es, -e	s	proces	B
+zivilisieren	v	a se civiliza	B
+fest	adj	solid, permanent, sigur, strâns	B
+der Bischof, -s, Bischöfe	s	episcop	B
+die Karriere, -, -n	s	carieră	B
+der Künstler, -s, -	s	artist	B
+entführen	v	a răpi	B
+die Entführung	s	răpire	B
+bekommen	v	a primi, a obține	B
+verspielen	v	a pierde bani la jocuri de noroc	B
+die Schuld, -, 	s	vină, vinovăție, datorie	B
+schuld	adj	blamat	B
+erfolgreich	adj	popular, de succes	B
+die Oper, -, -n	s	operă	B
+verbrechen	v	a comite o crimă	B
+das Verbrechen, -s, -	s	crimă	B
+sparsam	adj	economic, strângător	B
+die Reihenfolge	s	paragraf	B
+die Veranstaltung	s	eveniment, organizare, aranjament	B
+die Absprache	s	aranjament	B
+die Ausstellung	s	expoziție	B
+die Länge, -, -n	s	lungime, durată	B
+der Mord, -(e)s, -e	s	crimă	B
+siegreich	adj	victorios, câștigător	B
+empfehlen	v	a recomanda	B
+die Beer, -, -n	s	berry	B
+die Silbe, -, -n	s	silabă	B
+die Landschaft	s	peisaj	B
+der Krimi, -s, -s	s	roman polițist	B
+die Komädie, -, -n	s	comedie	B
+der Film, -(e)s, -e	s	film	B
+das Zeichen, -s, -	s	simbol, caracter	B
+der Zeichentrickfilm	s	desen animat	B
+der Untergang	s	declin, distrugere, scufundare	B
+der Bankrott, -(e)s, -e	s	faliment	B
+spannend	s	excitant, plin de suspans	B
+spannen	v	a întinde, a încorda, a îngusta	B
+die Fluggesellschaft	s	comanie aeriană	B
+verbringen	v	a-si petrece	B
+echt	adj	original, real, adevărat	B
+die Faszination, -s, -	s	fascinație	B
+kinderlos	adj	copilăros	B
+drucheinander	adj	complicat, dificil (a complica viața)	B
+handeln	v	a face comerț, a acționa, a fi despre ceva	B
+verändern	v	a schimba, a se schimba	B
+der Schauspieler	s	actor	B
+der Maler, -s, -	s	pictor	B
+der Autor, -s, -en	s	autor	B
+der Komponist, -en, -en	s	compozitor	B
+der Mann, -(e)s, Männer	s	bărbat	B
+der Produzent, -en, -en	s	producător	B
+der Ausdruck, -(e)s, Ausdrücke	s	exprimare, expresie (a feței)	B
+das Verbrechen, -s, -	s	crimă	B
+verbrechen	v	a comite o crimă	B
+verweisen	v	a se referi	B
+der Zusammenhang, -(e)s, -hänge	s	conexiune, legătură	B
+der Hang, -(e)s, Hänge	s	pantă, tendință, înclinție	B
+die Ermordung	s	asasin	B
+erscheinen	v	a apare	B
+das Erscheinen, -s, -	s	apariție, publicație	B
+das Motiv, -s, -e	s	motiv	B
+abfüren	v	a duce mai departe, a plăti, a exmatricula	B
+die Entwicklung	s	trend, idee, progresie, generație	B
+erfinden	v	a inventa	B
+die Sucht, -, Süchte	s	dependență, obsesie	B
+staatlich	adj	de stat	B
+der Beweis, -(e)s, -e	s	dovadă, evidență, demonstrație	B
+beweisen	v	a dovedi, a demonstra	B
+die Jagd, -, -en	s	vânătoare, urmărire	B
+jagen	v	 a vâna, a urmări	B
+hauptsächlich	adj	important, în special	B
+die Aussage	s	mărturie	B
+zeugen	v	a depune marturie	B
+der Zeuge, -n, -n	s	martor	B
+der Detektiv, -s, -e	s	detectiv	B
+die Krimminologe, -n, -n	s	criminalist	B
+die Anfangzeit	s	stadiu incipient	B
+die Aufklärung	s	rezolvare	B
+der Gut, -(e)s, Güter	s	binele	B
+böse	adj	rău	B
+das Böse, -n, 	s	răul, maleficul	B
+mustig	adj	curajos	B
+aufklären	v	a rezolva, a clarifica	B
+die Variante, -, -n	s	varianta	B
+die Straftat	s	crimă, nelegiuire	B
+die Tat, -, -en	s	acțiune	B
+überfallen	v	a jefui	B
+das Portmonaie, -s, -s	s	portmoneu	B
+einbrechen	v	a da o spargere	B
+der Einbruch	s	spargere ( aunei case), nvazie	B
+der Bruch, -(e)s, Brüche	s	ruptură, breșă	B
+der Diebstahl, -(e)s, Diebstähle	s	hoț	B
+verhören	v	a interoga	B
+der Dieb, -(e)s, -e	s	hoț	B
+stehlen	v	a fura	B
+brechen	v	a sparge	B
+der Täter, -s, -	s	făptaș, inculpat	B
+festnehmen	v	a aresta	B
+verhaften	v	a aresta	B
+klug	adj	deștept	B
+feig	adj	laș	B
+die Schwere, -, 	s	greutate	B
+ungelöst	adj	nerezolvat	B
+tragen	v	a purta, a căra, a avea	B
+drohen	v	a amenința	B
+bedrohen	v	a amenința	B
+der Bankräuber	s	spărgător de bănci	B
+der Räuber, -s, -	s	hoț	B
+liefern	v	a oferi, a livra, a furniya	B
+spurlos	adv	fără urmă	B
+verschwinden	v	a dispare	B
+das Verschwinden, -s, -	s	dispariție	B
+schwinden	v	a se diminua, a se tremina	B
+klettern	v	a escalada	B
+leiden	v	a suferi, a suporta	B
+die Kutsche, -, -n	s	trăsură	B
+der Schnaps, -es, Schnäpse	s	lichior	B
+empfehlen	v	a recomanda	B
+der Abschied, -(e)s, -e	s	rămas bun	B
+der Kuss, -es, Küsse	s	sărut	B
+laden	v	a încărca	B
+der Laden, -s, Läden	s	afacere, magazin	B
+fehlen	v	a lipsi	B
+dirigiren	v	a dirija	B
+der Dirigent, -(e)s, -e	s	dirijor	B
+der Weltruhm	s	faimă mondială	B
+der Ruhm, -(e)s, 	s	faimă	B
+die Sinfonie, -, -n	s	sinfonie	B
+zufällig	adv	din coincidență	B
+die Weile, -, 	s	ceva timpo	B
+warscheinlich	adj	probabil	B
+der Schluss, -es, Schlüsse	s	sfârșit, încheiere, final	B
+betrügen	v	a trișa	B
+die Vernienung	s	negație	B
+umschalten	v	a schimba postul/ canalul	B
+erkundingen	v	a întreba (despre)	B
+ausgehen	v	a iesi în oraș/ la o plimbare	B
+der Durchschitt	s	medie	B
+Angestellte(r)	s	nagajat	B
+das Btuttoeinkommen	s	venit brut	B
+das Bruttogehalt	s	salar brut	B
+die Gesundheit	s	sănătate	B
+die Rente, -, -n	s	pensie	B
+das Möbel, -s, -	s	piesa de mobilier	B
+die Freizeit	s	timp liber	B
+die Bildung, -, -en	s	educație, construcție (de propoziții), formare	B
+das Sparen, -s, 	s	economisirea banilor	B
+die Komunikation	s	comunicație	B
+die Nahrung	s	mâncare	B
+das Mittel, -s, -	s	produse comestibile, lucruri de mâncat	B
+der Wein, -(e)s, -e	s	 vin	B
+das Gemüse, -s, -	s	legumă	B
+die Kosmetik, -, 	s	produs cosmetic	B
+das Ticket, -s, -s	s	bilet, tichet	B
+das Mark, -(e)s, 	s	măduvă	B
+die Briefmarke	s	timbru	B
+die Drogerie, -, -n	s 	drogherie	B
+das Antiquariat, -(e)s, -e	s	anticariat	B
+der Markt, -(e)s, Märkte	s	piață	B
+der Bäcker, -, -en	s	brutar	B
+das Brot, -(e)s, -e	s	pâine	B
+das Fleisch, -(e)s, -e	s	carne	B
+die Ware, -, -n	s	produs, articol	B
+die Beratung	s	sfat, dicuție, dezvoltare	B
+die Umwelt	s	mediu înconjurător	B
+abnehmen	v	a slăbi, a da jos, a descrește, a lua ceva pentru cineva	B
+die Prüfung	s	examen, examinare	B
+der Nebensatz	s	propoziție subordonată	B
+änlich	adv	similar, asemănător	B
+die Entscheidung	s	decizie	B
+die Ausschnitt	s	guler, sector	B
+die Aktentasche	s	geantă	B
+das Leder, -s, -	s	piele	B
+die Erinnerung	s	amintire, suvenir	B
+schmuck	adj	deștept, chipeș	B
+der Schmuck, -(e)s, 	s	bijuterie, decorațiune	B
+die Uhr, -, -en	s	ceas	B
+die Wäsche, -, -en	s	spălare	B
+die Unterwäsche	s	lenjerie intimă	B
+die Haushaltswäsche	s	lenjerie	B
+die Bekleidung	s	îmbrăcăminte	B
+die Halskette	s	colier	B
+die Kette, -, -n	s	lanț	B
+das Parfüm, -s, -s	s	perfum	B
+die Lippe, -, -n	s	buză	B
+stiften	v	a dona, a cauza	B
+der Stift, -(e)s, -e	s	pin, băt, stilou, creion	B
+der Lippenstift	s	ruj	B
+der Stab, -(e)s, Stäbe	s	sceptru, baston, par	Gramatik
+der Buchstab	s	literă	Gramatik
+der Konsonant, -en, -en	s	consoană	Gramatik
+der Vokal, -s, -e	s	vocala	Gramatik
+die Silbe, -, -n	s	silabă	Gramatik
+die Art, -, -en	s	tip, sortiment, metoda, natură, specie, stil	Gramatik
+die Wortart	s	parte de vorbire	Gramatik
+das Pronomen, -s, -	s	pronume	Gramatik
+das Verb, -s, -en	s	verb	Gramatik
+das Adverb, -s, -ien	s	adverb	Gramatik
+die Präposition, -, en	s	prepoziție	Gramatik
+der Artikel, -s, -	s	articol	Gramatik
+das Adjektiv, -s, -e	s	adjectiv	Gramatik
+das Nomen, -s, -	s	substantiv	Gramatik
+dekliniren	v	a declina	Gramatik
+vertreten	v	a reprezenta, a suplini	Gramatik
+der Stellvertreter	s	reprezentant, suplinitor, delegat, deputat	Gramatik
+bezeichen	v	a descrie, a numi, a indica, a marca	Gramatik
+geschehen	v	a se întâmpla	Gramatik
+das Geschehen, -s, -	s	eveniment	Gramatik
+konjugieren	v	a conjuga	Gramatik
+die Gegenwart	s	prezent	Gramatik
+die Ergänzung	s	completare, adiție, supliment	Gramatik
+ausdrücken	v	a indica	Gramatik
+die Höflichkeit	s	politețe	Gramatik
+ebenfalls	adv	de asemenea	Gramatik
+nachfolgend	adj	urmator	Gramatik
+der Begleiter, -s, -	s	companie, escortă	Gramatik
+begleiten	a acompania, a ține companie		Gramatik
+gleiten	s	a aluneca	Gramatik
+das Zeichen, -s, -	s	semn, simbol, simptomă	Gramatik
+die Endung	s	sfârșit, terminație	Gramatik
+das Genus, -, Genera	s	gen	Gramatik
+das Numerus, -, Numeri	s	număr	Gramatik
+der Kasus, -, -	s	caz	Gramatik
+bestimmt	adj	definit	Gramatik
+steigern	v	a crește, a îmbunătăți	Gramatik
+auftreten	v	a merge, a apare, a se găsi, a se comporta	Gramatik
+abhängen	v	a depinde, a da jos, a decupla	Gramatik
+der Aussagesatz	s	enunț	Gramatik
+die Aussage	s	mărturie, predicat, proposiție, mesaj	Gramatik
+die Aufforderung	s	cerere, rugăminte	Gramatik
+der Hauptsatz	s	propoziție principala	Gramatik
+der Zweck, -(e)s, -e	s	scop, țel, obiectiv	Gramatik
+das Tempus, -, Tempora	s	timp	Gramatik
+der Glanz, -es, 	s	lustru, strălucire	Der Fluch
+glanzvoll	adj	grandios	Der Fluch
+glänzen	v	a straluci	Der Fluch
+der Dorf, -(e)s, Dörfer	s	sat, cătun	Der Fluch
+schätzen	v	a estima, a ghici	Der Fluch
+balsamieren	v	a îmbălsăma	Der Fluch
+mumifizieren	v	a mumifica	Der Fluch
+daswegen	conj	de aceea	Der Fluch
+ungestört	adj	netulburat	Der Fluch
+erschlagen	v	a ucide, a omorî	Der Fluch
+der Todfall	s	moarte	Der Fluch
+die Mücke, -, n	s	țânțar	Der Fluch
+stichen	v	a înțepa	Der Fluch
+die Vergiftung	s	otravă	Der Fluch
+die Ausgrabung	s	excavație	Der Fluch
+darunter	adv	printe, de desubt	Der Fluch
+auswickeln	v	a desfășura, a despacheta	Der Fluch
+wickeln	v	a înfasura, a împacheta	Der Fluch
+der Pliz, -es, -e	s	ciupercă	Der Fluch
+der Schimmel, -s, 	s	mucegai	Der Fluch
+der Wissenschaftler	s	om de știință	Der Fluch
+der Krach, -(e)s, Kräche	s	zgomot, larmă, prăbușire	Der Fluch
+krachen	v	a sparge, a prabuși	Der Fluch
+trotzden	adj	totuși	Der Fluch
+seufzen	v	a suspina, a ofta	Der Fluch
+der Korridor, -s, -e	s	coridor	Der Fluch
+der Laut, -(e)s, -e	s	zgomot, sunet	Der Fluch
+laut	adj	tare, zgomotos	Der Fluch
+schließen	v	a închide	Der Fluch
+der Luftzug	s	briză	Der Fluch
+der Schlaf, -(e)s, 	s	somn	Der Fluch
+schlafen	v	a dormi	Der Fluch
+wecken	v	a trezi	Der Fluch
+die Last, -, -en	s	greutate, povară	Der Fluch
+lasten	v	a se odihni pe cineva, a se odihni pe ceva, a fi deasupra cuiva	Der Fluch
+bestrafen	v	a pedepsi	Der Fluch
+klopfen	v	a ciocăni	Der Fluch
+verrückt	adj	nebun, tâmpit, prost	Der Fluch
+verrucken	v	a muta, a deplasa	Der Fluch
+schreiten	s	a păși	Der Fluch
+der Schritt, -(e)s, -e	s	pas	Der Fluch
+die Stille, -, 	s	liniște	Der Fluch
+still	adj	liniștit, nemișcat	Der Fluch
+erreichen	v	a ajunge	Der Fluch
+einschlagen	v	a sparge, a doborî (un geam, o ușă)	Der Fluch
+die Stange, -, -n	s	par, bâtă, bară de metal	Der Fluch
+der Stock, -(e)s, Stöcke	s	piatră	Der Fluch
+umsehen	v	a se uita împrjur după ceva, a se uita în spate	Der Fluch
+umschauen	v	a se uita împrjur după ceva, a se uita în spate	Der Fluch
+der Baum, -(e)s, Bäume	s	copac	Der Fluch
+die Alarmanlage	s	sistem de alarmare, alarmă/ protecție	Der Fluch
+angehen	v	a începe, a aborda, a lupta împortiva	Der Fluch
+schaffen	v	a face, a rezolva, a aduce, a trece	Der Fluch
+das Gefängnis, -ses, -se	s	închisoare	Der Fluch
+riskiren	v	a risca	Der Fluch
+aufwachen	v	a se trezi	Der Fluch
+ansehen	v	a se uita la	Der Fluch
+mutig	adj	curajos	Der Fluch
+aufwecken	v	a trezi	Der Fluch
+der Ton, -(e)s, Töne	s	sunet, ton	Der Fluch
+der Ton, -(e)s, -e	s	lut, argilă	Der Fluch
+die Einsenstange	s	bară de fier (metal)	Der Fluch
+die Scheibe, -, -n	s	sticlă	Der Fluch
+einschlagen	v	a sparge, a lovi cu ciocanul	Der Fluch
+das Objekt, -(e)s, -e	s	obiect	Der Fluch
+die Kirche, -, -n	s	biserică	Der Fluch
+das Versteck, -(e)s, -e	s	ascunzătoare, loc ascuns	Der Fluch
+die Kreuzung	s	intersecție	Der Fluch
+verbinden	v	a conecta, a combina	Der Fluch
+der Sarkophag, -(e)s, -e	s	sarcofag	Der Fluch
+klopfen	v	a ciocăni (la geam), a bate	Der Fluch
+das Klopfen, -s, 	s	ciocănitură, bătaie	Der Fluch
+der Reiter, -s, -	s	călăreț	Der Fluch
+reisengroß	adj	enorm, colosal	Der Fluch
+reisenhaft	adj	enorm, colosal	Der Fluch
+witzig	adj	amuzant	Der Fluch
+einzig	conj	doar	Der Fluch
+der/die Einzige	s	singurul/ singura	Der Fluch
+die Gegend	s	regiune, areal	Der Fluch
+der Sensor, -s, -en	s	senzor	Der Fluch
+losgehen	v	a părăsi ceva, a se îndrepta spre ceva, a porni	Der Fluch
+die Schulter, -, -n	s	umăr	Der Fluch
+schnappen	v	a prinde	Der Fluch
+erziehn	v	a educa	Der Fluch
+der Strolch, -(e)s, -e	s	pungaș, ticălos, misel	Der Fluch
